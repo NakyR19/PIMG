@@ -1,0 +1,14 @@
+Questdo 2 (4 pontos)
+Escreva uma fungdo para decidir se num tabulelro de jogo da velha ha um vencedor
+e, caso exista,
+qual 6.0 simbolo associada
+a ole.
+
+‘Sua fungSo deve veriicar as seguintes situagdes anémalas:
+1.
+
+Ocorréncia de mais de um venceder
+
+2. Ocorréncia de mais de dojs tipos de simbolos associados nos jogadores
+
+

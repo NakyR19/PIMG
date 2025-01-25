@@ -1,0 +1,13 @@
+Questao 2 (4 pontos)
+Escreva uma fungdo para decidir se num tabulelro de jogo da velha ha um vencedor
+qual 6 0 simbolo associada a ole.
+
+‘Sua fungso deve verificar as seguintes situagdes andmalas:
+
+1. Ocoréncia
+de mais de um vencedor
+2. Ocorréncia de mais de dois tipos de simbolos associados aos jogadores
+
+@, caso exista,
+
+

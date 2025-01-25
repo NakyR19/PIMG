@@ -1,0 +1,16 @@
+Questao 2 (4 pontos)
+Escreva uma fungao para decidir se num tabulelro de jogo da velha
+ha um vencedor @, ciiso exiota;
+
+a ole,
+qual 60 simbolo associado
+
+‘Sua fungi deve verificar as seguintes situagdes anémalas:
+1.
+
+Ocorréncia
+de mais de um vencedor
+
+2. Ovorréncia de mais de doje tipos de simbolos associados aos jogadores
+
+
